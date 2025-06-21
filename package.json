@@ -64,7 +64,7 @@
     "@restart/ui": "^1.4.1",
     "@types/react-transition-group": "^4.4.4",
     "classnames": "^2.3.1",
-    "dom-helpers": "^5.2.1",
+    "dom-helpers": "^6.0.0",
     "invariant": "^2.2.4",
     "prop-types": "^15.8.1",
     "prop-types-extra": "^1.1.0",
